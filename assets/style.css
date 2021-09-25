@@ -1,0 +1,26 @@
+.uk-card-header {
+    padding: 6px 8px;
+}
+
+.uk-card-default .uk-card-title {
+    cursor: pointer;
+}
+
+.uk-card-title {
+    font-size: 1.1em;
+}
+
+.uk-card-body {
+    padding: 8px;
+}
+
+.uk-card-body .uk-grid>.uk-grid-margin {
+    margin-top: 8px;
+}
+
+.uk-button {
+    padding: 4px;
+    line-height: 28px;
+    font-size: 0.8em;
+    text-transform: none;
+}
